@@ -11,7 +11,7 @@ export default function Navbar(){
       </div>
       <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
       <li className="text-[17px font-medium tracking-wider text-white gap-3"><a>Bangladesh</a></li>
-      <li  className="text-[17px font-medium tracking-wider text-white gap-3"><a href="">International</a></li>
+      <li  className="text-[17px font-medium tracking-wider text-white gap-3" id="International"><a href="">International</a></li>
       <li  className="text-[17px font-medium tracking-wider text-white gap-3"><a href="">Sport</a></li>
       <li  className="text-[17px font-medium tracking-wider text-white gap-3"><a href="">Job</a></li>
       <li  className="text-[17px font-medium tracking-wider text-white gap-3"><a href="">Entertainment</a></li>

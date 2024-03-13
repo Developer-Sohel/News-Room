@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import HeaderNews from "./HeaderNews";
 export default function Header (){
   
+  
 
 
     const [bdnews, setbdnews]= useState([]);

@@ -8,10 +8,10 @@ function App() {
 
   return (
     <>
-<Navbar></Navbar>
-
+<Navbar></Navbar> 
 <Header></Header>
 <headerNews></headerNews>
+
 
     </>
   )
