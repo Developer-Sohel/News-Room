@@ -1,0 +1,116 @@
+{
+  "news": [
+    {
+      "img": "https://media.istockphoto.com/id/1477509958/photo/website-page-contact-us-or-e-mail-marketing-concept-customer-support-hotline-contact-us.jpg?s=2048x2048&w=is&k=20&c=XuCP4J7_wHPfduLN7O9Pcvz6efWMTNChpvs570Ve4no=",
+      "title": "Bangladesh Prime Minister Discovers Hidden Treasure in Old Palace",
+      "description": "Prime Minister Sheikh Hasina made an astonishing discovery today when she stumbled upon a hidden treasure trove of ancient artifacts and gold coins while renovating her ancestral palace.",
+      "author": "John Doe",
+      "post_date": "2024-03-10"
+    },
+    {
+      "img": "https://example.com/image2.jpg",
+      "title": "Giant Egg Found in Bangladesh Village - Scientists Baffled",
+      "description": "Villagers in rural Bangladesh were left in awe when they discovered a gigantic egg in the forest. Scientists are scrambling to determine its origin and what creature it belongs to.",
+      "author": "Jane Smith",
+      "post_date": "2024-03-11"
+    },
+    {
+      "img": "https://example.com/image3.jpg",
+      "title": "Bangladesh Breaks World Record for Largest Mango",
+      "description": "A massive mango weighing over 5 kilograms has been harvested in a village in Bangladesh, setting a new world record for the largest mango ever recorded.",
+      "author": "Ali Khan",
+      "post_date": "2024-03-12"
+    },
+    {
+      "img": "https://example.com/image4.jpg",
+      "title": "Bangladeshi Farmer Grows Square Watermelons",
+      "description": "In a groundbreaking agricultural experiment, a farmer in Bangladesh has successfully grown square-shaped watermelons, revolutionizing the fruit market.",
+      "author": "Fatima Ahmed",
+      "post_date": "2024-03-13"
+    },
+    {
+      "img": "https://example.com/image5.jpg",
+      "title": "Bangladesh to Launch First Mission to Mars",
+      "description": "Bangladesh's space agency has announced plans to launch the country's first mission to Mars, marking a significant milestone in the nation's space exploration efforts.",
+      "author": "Michael Johnson",
+      "post_date": "2024-03-14"
+    },
+    {
+      "img": "https://example.com/image6.jpg",
+      "title": "World's Tallest Building to Be Constructed in Bangladesh",
+      "description": "Bangladesh is set to become home to the world's tallest building, with construction set to begin on a towering skyscraper that will redefine the country's skyline.",
+      "author": "Sara Khan",
+      "post_date": "2024-03-15"
+    },
+    {
+      "img": "https://example.com/image7.jpg",
+      "title": "Bangladesh Discovers Ancient Civilization Underneath Capital City",
+      "description": "Archaeologists in Bangladesh have unearthed the remains of an ancient civilization buried beneath the capital city, shedding new light on the region's rich history.",
+      "author": "Alex Johnson",
+      "post_date": "2024-03-16"
+    },
+    {
+      "img": "https://example.com/image8.jpg",
+      "title": "Bangladeshi Chef Creates World's Spiciest Curry",
+      "description": "A chef in Bangladesh has concocted the world's spiciest curry, earning a place in the Guinness World Records and leaving diners reaching for gallons of milk to cool their mouths.",
+      "author": "Emily Patel",
+      "post_date": "2024-03-17"
+    },
+    {
+      "img": "https://example.com/image9.jpg",
+      "title": "Bangladesh Bans Use of Cars to Combat Pollution",
+      "description": "In a bold move to combat air pollution, the government of Bangladesh has announced a nationwide ban on the use of cars, encouraging citizens to embrace eco-friendly transportation alternatives.",
+      "author": "David Brown",
+      "post_date": "2024-03-18"
+    },
+    {
+      "img": "https://example.com/image10.jpg",
+      "title": "Bangladesh's National Cricket Team to Play on Moon's Surface",
+      "description": "In a groundbreaking sporting event, Bangladesh's national cricket team is set to play a historic match on the surface of the moon, showcasing the country's passion for cricket to the world.",
+      "author": "Sophia Lee",
+      "post_date": "2024-03-19"
+    },
+    {
+      "img": "https://example.com/image11.jpg",
+      "title": "Bangladeshi Scientist Discovers Fountain of Youth",
+      "description": "A Bangladeshi scientist claims to have discovered the elusive fountain of youth, sparking worldwide interest and prompting thousands to flock to Bangladesh in search of eternal youth.",
+      "author": "Mohammed Rahman",
+      "post_date": "2024-03-20"
+    },
+    {
+      "img": "https://example.com/image12.jpg",
+      "title": "Bangladesh Creates Artificial Sun to End Energy Crisis",
+      "description": "Facing an energy crisis, Bangladesh has developed an artificial sun that promises to provide clean and unlimited energy to the nation, potentially ending its dependence on fossil fuels.",
+      "author": "Laura Wilson",
+      "post_date": "2024-03-21"
+    },
+    {
+      "img": "https://example.com/image13.jpg",
+      "title": "Bangladesh Unveils Plan to Build Underwater City",
+      "description": "Bangladesh has announced plans to build the world's first underwater city, a marvel of engineering that will provide a solution to the country's overcrowding and rising sea levels.",
+      "author": "Mark Thompson",
+      "post_date": "2024-03-22"
+    },
+    {
+      "img": "https://example.com/image14.jpg",
+      "title": "Bangladesh Launches Flying Car Prototype",
+      "description": "Bangladesh has unveiled a prototype of a flying car that promises to revolutionize transportation and ease traffic congestion in crowded cities.",
+      "author": "Rachel Green",
+      "post_date": "2024-03-23"
+    },
+    {
+      "img": "https://example.com/image15.jpg",
+      "title": "Bangladeshi Fisherman Catches Whale in Local River",
+      "description": "In a remarkable feat, a Bangladeshi fisherman has caught a whale in a local river, leaving experts puzzled and villagers celebrating the rare catch.",
+      "author": "Chris Evans",
+      "post_date": "2024-03-24"
+    },
+    {
+      "img": "https://example.com/image16.jpg",
+      "title": "Bangladesh Builds World's Largest Solar Park",
+      "description": "Bangladesh has inaugurated the world's largest solar park, a massive renewable energy project that will help the country meet its growing energy demands while reducing carbon emissions.",
+      "author": "Julia Anderson",
+      "post_date": "2024-03-25"
+    }
+  ]
+}
